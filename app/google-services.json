@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "572101092025",
+    "firebase_url": "https://worldskills-f6-1.firebaseio.com",
+    "project_id": "worldskills-f6-1",
+    "storage_bucket": "worldskills-f6-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572101092025:android:fba5fccac83f9a60",
+        "android_client_info": {
+          "package_name": "com.example.gr683_uoa.pognali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDS03TN-gE_RcTx_m-F43xEK324q7l9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
